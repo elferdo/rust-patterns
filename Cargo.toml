@@ -1,0 +1,24 @@
+[package]
+name = "rust-patterns"
+version = "0.1.0"
+authors = ["Fernando Herrero Carrón <fernando@parity.io>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+# [lib]
+
+
+# [[bin]]
+# name = "choice"
+# path = "src/choice/main.rs"
+# 
+# [[bin]]
+# name = "listener"
+# path = "src/listener/main.rs"
+# 
+# [[bin]]
+# name = "factory"
+# path = "src/factory/main.rs"
